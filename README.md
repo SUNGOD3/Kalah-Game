@@ -2,15 +2,10 @@
 對於經典遊戲”撿金豆”定義狀態空間、狀態轉移函式、目標狀態，最後實作並且提供實力不同的AI模型和玩家進行對戰(也可以看AI對決)。
 
 Details : https://github.com/SUNGOD3/Kalah-Game/blob/main/Kalah-Game.pdf
-
-
 ## How to use?
-1. Download and execute "第八組_演算法效能評比_2021.jar"
-2. Choose your problem: "sort" or "matrix multiplication"
-3. Choose the way you generate test data, there are 4 ways of "I/O Read", "Example", "Random", ".txt Read" to generate the data you want.
-4. Don't forget to click "Generate Array/Matrix".
-5. Choose the algorithm you want to use to solve the problem.
-6. GoGo!
+1. Download and execute "Kalah-Game.exe"
+2. 輸入數字來選擇遊玩模式 ('1' = 和AI人機對戰 / '2' = 看兩台AI人機對打 / '3' = 分析node拓展數)，輸入以外數字程式結束
+3. 之後按照輸入說明進行遊戲即可
 
 ## Preview
 <img src="README_IMG/Step2.png" width="30%"> <img src="README_IMG/Sort_EX.png" width="25%"> <img src="README_IMG/Mul_EX.png" width="25%">
