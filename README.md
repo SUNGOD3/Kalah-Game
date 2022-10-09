@@ -1,7 +1,7 @@
 # Kalah-Game
 對於經典遊戲”撿金豆”定義狀態空間、狀態轉移函式、目標狀態，最後實作並且提供實力不同的AI模型和玩家進行對戰(也可以看AI對決)。
 
-Details
+Details : https://github.com/SUNGOD3/Kalah-Game/blob/main/Kalah-Game.pdf
 
 
 ## How to use?
