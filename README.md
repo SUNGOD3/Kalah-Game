@@ -8,7 +8,7 @@ Details : https://github.com/SUNGOD3/Kalah-Game/blob/main/Kalah-Game.pdf
 3. 之後按照輸入說明進行遊戲即可
 
 ## Preview
-<img src="README_IMG/Step2.png" width="30%"> <img src="README_IMG/Sort_EX.png" width="25%"> <img src="README_IMG/Mul_EX.png" width="25%">
+<img src="README_IMG/EX1.png" width="50%"> <img src="README_IMG/EX2.png" width="50%">
 
 ## Research results
 成功使用mini-max 演算法依照搜尋深度來實作不同等級的AI，並且在和隨機遊玩的AI測試中皆獲得了平均9成以上的勝率 (平均勝率也隨著搜尋深度越深而越高)，此外也分析了 Alpha-Beta 剪枝的效果。
