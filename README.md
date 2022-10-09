@@ -16,6 +16,4 @@ Details : https://github.com/SUNGOD3/Kalah-Game/blob/main/Kalah-Game.pdf
 <img src="README_IMG/Step2.png" width="30%"> <img src="README_IMG/Sort_EX.png" width="25%"> <img src="README_IMG/Mul_EX.png" width="25%">
 
 ## Research results
-Since JAVA's recursive call is call by value, a divide-and-conquer algorithm such as 2D matrix multiplication like Strassen [O(n^2.807)] is actually better than Naïve [O(n^3)] is even slower (the n range is within the acceptable range for the system).
-
-As for algorithms with the same time complexity, such as Insertion/Bubble/Selection Sort [O(n^2)], the speed under the influence of constants is Bubble << Insertion < Selection (random measurement, n>=10000).
+成功使用mini-max 演算法依照搜尋深度來實作不同等級的AI，並且在和隨機遊玩的AI測試中皆獲得了平均9成以上的勝率 (平均勝率也隨著搜尋深度越深而越高)，此外也分析了 Alpha-Beta 剪枝的效果。
