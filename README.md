@@ -7,6 +7,8 @@ Details : https://github.com/SUNGOD3/Kalah-Game/blob/main/Kalah-Game.pdf
 2. 輸入數字來選擇遊玩模式 ('1' = 和AI人機對戰 / '2' = 看兩台AI人機對打 / '3' = 分析node拓展數)，輸入以外數字程式結束
 3. 之後按照輸入說明進行遊戲即可
 
+或者可以根據make/makefile,game.h和.o檔自行製作遊戲 (此版本為英文版)
+
 ## Preview
 <img src="README_IMG/EX1.png" width="50%"> <img src="README_IMG/EX2.png" width="50%">
 
